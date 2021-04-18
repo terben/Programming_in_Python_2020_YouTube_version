@@ -8,5 +8,3 @@ dependencies:
   - sympy
   - colorama
   - pip
-  - pip:
-    - jupyterlab_latex
