@@ -17,6 +17,6 @@ option is described
 [here](https://github.com/terben/Programming_in_Python_2020_YouTube_version/tree/master/retrieve_materials).
 
 ## Start of an interactive session
-- The following button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terben/Programming_in_Python_2020_YouTube_version/HEAD?urlpath=tree) launches an interactive `Jupyter Notebook` session.
+- The following button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terben/Programming_in_Python_2020_YouTube_version/master?urlpath=tree) launches an interactive `Jupyter Notebook` session.
 
-- The following button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terben/Programming_in_Python_2020_YouTube_version/HEAD?urlpath=lab) launches an interactive `JupyterLab` session.
+- The following button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terben/Programming_in_Python_2020_YouTube_version/master?urlpath=lab) launches an interactive `JupyterLab` session.
