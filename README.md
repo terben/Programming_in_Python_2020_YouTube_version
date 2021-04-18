@@ -1,7 +1,8 @@
 # Programming in Python (Bonn University, Summer 2020)
 
 Materials for the public, reworked version of the course 'Programming in
-Physics and Astronomy with C++ or Python' (BCGS; Summer Term 2020)
+Physics and Astronomy with C++ or Python' (Electivs physics master course at
+Bonn University; Summer 2020)
 
 ## Goal of the course
 The goal of the course is to teach physics/astronomy-students on the
